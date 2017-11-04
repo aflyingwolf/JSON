@@ -1,0 +1,13 @@
+{
+	"info":
+	{
+		"name":"zhu", 
+		"sex":"f",
+		"age":18
+	},
+	"class":
+	[
+		{"name":"zhu", "sex":"f"},
+		{"name":"liu", "sex":"m"}
+	]
+}
